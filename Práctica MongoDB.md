@@ -71,13 +71,13 @@ con otras?**
 **Distrubución de precios para cada marca de automóvil:**
 
  ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%201.png)
+ ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%202.png)
+ ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%203.png)
+ ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%204.png)
+ ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%205.png)
+ ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%206.png)
 
 Los resultados muestran la distribución de precios de venta para cada marca de automóvil y nos permiten identificar si hay marcas de lujo con precios consistentemente más altos en comparación con otras marcas.
-
-**Diferencias de costos entre las marcas (¿Existen marcas de lujo con precios consistentemente más altos en comparación
-con otras?):**
-
-
 
 Marcas con Precios Altos: Hay marcas que tienen precios consistentemente más altos en comparación con otras. Algunas marcas como "Peugeot", "Jensen", "MG", "Corbin", "Merkur", "McLaren", entre otras, tienen precios promedio bastante altos en comparación con la mayoría de las marcas.
 
