@@ -29,13 +29,16 @@
 
 Variación de las ventas de automoviles según las estaciones:
 
-
+![](./6/Análisis%20Estacional%20-%201.png)
+![](./6/Análisis%20Estacional%20-%202.png)
 
 Los datos muestran que las ventas de automóviles varían ligeramente a lo largo de las estaciones, con una cierta estabilidad en las ventas en otoño, un aumento sorprendente en verano y un patrón de crecimiento gradual desde la primavera hasta el otoño. Estos hallazgos podrían estar influenciados por factores como las promociones estacionales, las condiciones climáticas, las preferencias de compra y las dinámicas del mercado automotriz.
 
 **Tipos de autos más atractivos durante momentos específicos del año:**
 
-
+![](./6/tipos%20de%20autos%20atractivos%20-%201.png)
+![](./6/tipos%20de%20autos%20atractivos%20-%202.png)
+![](./6/tipos%20de%20autos%20atractivos%20-%203.png)
 
 
 **Invierno:** Durante el invierno, el color más atractivo en términos de ventas es el verde, y el fabricante más popular es Volkswagen. Esto podría sugerir que en invierno los compradores están buscando autos con colores más frescos y naturales.
