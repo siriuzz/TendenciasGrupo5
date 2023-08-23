@@ -70,7 +70,7 @@ con otras?**
 
 **Distrubución de precios para cada marca de automóvil:**
 
-
+ ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto.png)
 
 Los resultados muestran la distribución de precios de venta para cada marca de automóvil y nos permiten identificar si hay marcas de lujo con precios consistentemente más altos en comparación con otras marcas.
 
