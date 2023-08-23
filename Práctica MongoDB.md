@@ -1,9 +1,9 @@
 
 # <center>Práctica MongoDB</center>
 
-----------------------------------
-
 ## <center>Grupo 5</center>
+
+---------------
 
 | Nombre | ID |
 |:------:|:--:|
