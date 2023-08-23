@@ -34,7 +34,7 @@ Se observa en muchos casos que ofrecer descuentos más altos sí está relaciona
  
    ![](./4/Rendimiento%20decreciente%20Consulta.png)
 
-   ![](./4/Rendimiento%20decrecient%20Resultado.png)
+   ![](./4/Rendimiento%20decreciente%20Resultado.png)
 
    Basado en los resultados de la consulta, parece que hay una serie de valores negativos en las diferencias de ingresos entre niveles de descuento consecutivos. Esto podría indicar que después de cierto punto, un aumento adicional en los descuentos está llevando a una disminución en los ingresos totales generados por las ventas. Los resultados sugieren que podría haber un punto de rendimientos decrecientes después del cual los ingresos adicionales generados por los descuentos disminuyen.
 
