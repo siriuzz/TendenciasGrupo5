@@ -17,6 +17,7 @@
 vendidos para un mes específico? ¿Cómo se compara esto con otros meses?**
 
 Mes 2:
+
 ![](1/VentasParaUnMesEspec%C3%ADficoMes2.jpg)
 
 Mes 6, 8, 10, 12 para comparar:
