@@ -128,7 +128,9 @@ Ahora repetimos la consulta pero cambiando el rango de precios y tenemos los sig
 
     Basado en los resultados de la consulta, parece que hay una serie de valores negativos en las diferencias de ingresos entre niveles de descuento consecutivos. Esto podría indicar que después de cierto punto, un aumento adicional en los descuentos está llevando a una disminución en los ingresos totales generados por las ventas. Los resultados sugieren que podría haber un punto de rendimientos decrecientes después del cual los ingresos adicionales generados por los descuentos disminuyen.
 
-5.## Punto 5
+5. **Patrones de Compra Basados en Género: ¿Existen tendencias basadas en el género en las compras,
+como colores, marcas o tipos de automóviles específicos que son preferidos por un género sobre el
+otro?**
 
 **Patrones de Compra Basados en Género**: ¿Existen tendencias basadas en el género en las compras,
 como colores, marcas o tipos de automóviles específicos que son preferidos por un género sobre el
@@ -215,41 +217,31 @@ Esto nos arroja los siguientes resultados:
 
 - Las personas que se identifican como Genderfluid, Male, Non-binary, Female, y Polygender tienden a comprar carros Ford
 - Las personas que se identifican como Agender, Genderqueer y Bigender suelen comprar carros Chevrolet
-
-![](./3&5_NoSQL/Punto%205%20Maker%20por%20genero.png)
+  ![](./3&5_NoSQL/Punto%205%20Maker%20por%20genero.png)
 
 6. **Análisis Estacional: ¿Cómo varían las ventas de automóviles a lo largo de diferentes estaciones? ¿Existen tipos de autos más atractivos durante momentos específicos del año?**
+  Variación de las ventas de automoviles según las estaciones:
+  ![](./6/Análisis%20Estacional%20-%201.png)
+  ![](./6/Análisis%20Estacional%20-%202.png)
+  Los datos muestran que las ventas de automóviles varían   ligeramente a lo largo de las estaciones, con una cierta  estabilidad en las ventas en otoño, un aumento sorprendente  en verano y un patrón de crecimiento gradual desde la  primavera hasta el otoño. Estos hallazgos podrían estar  influenciados por factores como las promociones  estacionales, las condiciones climáticas, las preferencias   de compra y las dinámicas del mercado automotriz.
+  **Tipos de autos más atractivos durante momentos  específicos del año:**
+  ![](./6/tipos%20de%20autos%20atractivos%20-%201.png)
+  ![](./6/tipos%20de%20autos%20atractivos%20-%202.png)
+  ![](./6/tipos%20de%20autos%20atractivos%20-%203.png)
+  **Invierno:** Durante el invierno, el color más atractivo   en términos de ventas es el verde, y el fabricante más  popular es Volkswagen. Esto podría sugerir que en invierno   los compradores están buscando autos con colores más  frescos y naturales.
+  **Primavera:** En primavera, el color más atractivo es el   amarillo, y el fabricante más popular es Plymouth. Esto   podría indicar que en la primavera los compradores  prefieren autos con colores brillantes y llamativos.
+  **Otoño:** Durante el otoño, el color más atractivo es el   carmesí (Crimson), y el fabricante más popular es   Mercedes-Benz. Esto podría señalar que en otoño los   compradores están interesados en colores más cálidos y  elegantes.
+  **Verano:** En verano, el color más atractivo es el dorado  (Goldenrod), y el fabricante más popular es GMC. Esto  podría indicar que en verano los compradores optan por   colores que reflejen el ambiente soleado y cálido.
+  
+  
 
-Variación de las ventas de automoviles según las estaciones:
-
-![](./6/Análisis%20Estacional%20-%201.png)
-![](./6/Análisis%20Estacional%20-%202.png)
-
-Los datos muestran que las ventas de automóviles varían ligeramente a lo largo de las estaciones, con una cierta estabilidad en las ventas en otoño, un aumento sorprendente en verano y un patrón de crecimiento gradual desde la primavera hasta el otoño. Estos hallazgos podrían estar influenciados por factores como las promociones estacionales, las condiciones climáticas, las preferencias de compra y las dinámicas del mercado automotriz.
-
-**Tipos de autos más atractivos durante momentos específicos del año:**
-
-![](./6/tipos%20de%20autos%20atractivos%20-%201.png)
-![](./6/tipos%20de%20autos%20atractivos%20-%202.png)
-![](./6/tipos%20de%20autos%20atractivos%20-%203.png)
-
-**Invierno:** Durante el invierno, el color más atractivo en términos de ventas es el verde, y el fabricante más popular es Volkswagen. Esto podría sugerir que en invierno los compradores están buscando autos con colores más frescos y naturales.
-
-**Primavera:** En primavera, el color más atractivo es el amarillo, y el fabricante más popular es Plymouth. Esto podría indicar que en la primavera los compradores prefieren autos con colores brillantes y llamativos.
-
-**Otoño:** Durante el otoño, el color más atractivo es el carmesí (Crimson), y el fabricante más popular es Mercedes-Benz. Esto podría señalar que en otoño los compradores están interesados en colores más cálidos y elegantes.
-
-**Verano:** En verano, el color más atractivo es el dorado (Goldenrod), y el fabricante más popular es GMC. Esto podría indicar que en verano los compradores optan por colores que reflejen el ambiente soleado y cálido.
-
-7. **Interacción entre Edad y Descuento: ¿Existe alguna relación entre la edad del comprador y el
-descuento que reciben? ¿Los compradores mayores tienden a negociar mejores descuentos?**
+7. **Interacción entre Edad y Descuento: ¿Existe alguna relación entre la edad del comprador y eldescuento que reciben? ¿Los compradores mayores tienden a negociar mejores descuentos?**
 ![InteracciónEntreEdadYDescuento-Consulta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/a571fd4b-a9a5-4de7-9c5c-2aa306b92521)
 ![InteracciónEntreEdadYDescuento-Respuesta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/f153ed4e-d134-46d0-b04a-be25728d36f1)
-
 Por los promedios sacada entre rangos de edad llegue a la conclusión de que las personas mayores de edad si tienden a conseguir más descuentos. Por otro lado, las personas que están entre los más jóvenes y los mas viejos son los que tienden a conseguir el menor descuento.
 
 
-9. **Demografía del Comprador para Autos Nuevos vs. Usados: ¿Atraen los autos nuevos y usados a diferentes demografías? ¿Existen ciertos grupos de edad o géneros más inclinados a comprar autos nuevos o usados?**
+8. **Demografía del Comprador para Autos Nuevos vs. Usados: ¿Atraen los autos nuevos y usados a diferentes demografías? ¿Existen ciertos grupos de edad o géneros más inclinados a comprar autos nuevos o usados?**
    Las siguientes capturas demuestran que los mínimos y máximos entre los autos usados y nuevos son los mismos, sugiriendo que en este caso, el estado de uso del auto no atrae diferentes demografías.<br>
 
    - Autos nuevos
@@ -265,22 +257,16 @@ Por los promedios sacada entre rangos de edad llegue a la conclusión de que las
    ![](./8/cantidad%20carros%20nuevos.png)
    ![](./8/comparacion%20cantidad%20carros%20usados.png)
 
-10. **Distribución de Precios por Marca de Auto: ¿Cuál es la distribución de los precios de venta para cada
-   marca de automóvil? ¿Existen marcas de lujo con precios consistentemente más altos en comparación
-   con otras?**
-
-**Distrubución de precios para cada marca de automóvil:**
-
-![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%201.png)
-![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%202.png)
-![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%203.png)
-![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%204.png)
-![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%205.png)
-![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%206.png)
-
-Los resultados muestran la distribución de precios de venta para cada marca de automóvil y nos permiten identificar si hay marcas de lujo con precios consistentemente más altos en comparación con otras marcas.
-
-Marcas con Precios Altos: Hay marcas que tienen precios consistentemente más altos en comparación con otras. Algunas marcas como "Peugeot", "Jensen", "MG", "Corbin", "Merkur", "McLaren", entre otras, tienen precios promedio bastante altos en comparación con la mayoría de las marcas.
+9. **Distribución de Precios por Marca de Auto: ¿Cuál es la distribución de los precios de venta para cada marca de automóvil ¿Existen marcas de lujo con precio consistentemente más altos en comparación con otras?**
+  **Distrubución de precios para cada marca de automóvil:**
+  ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%201.png)
+  ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%202.png)
+  ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%203.png)
+  ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%204.png)
+  ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%205.png)
+  ![](./9/Distribución%20de%20precios%20por%20marca%20de%20auto%20-%206.png)
+  Los resultados muestran la distribución de precios de venta para cada marca de automóvil y nos permiten identificar si hay marcas de lujo con precios consistentemente más altos en comparación con otras marcas.
+  Marcas con Precios Altos: Hay marcas que tienen precios consistentemente más altos en comparación con otras. Algunas marcas como "Peugeot", "Jensen", "MG", "Corbin", "Merkur", "McLaren", entre otras, tienen precios promedio bastante altos en comparación con la mayoría de las marcas.
 
 10. **Correlación entre Edad del Comprador y Color del Auto: ¿Existe alguna correlación entre la edad del comprador y el color del automóvil que compran? ¿Los compradores más jóvenes prefieren ciertos colores sobre otros?**<br>
     En este caso, primero listé todos los colores que existen en la base de datos y tomé el promedio de edades que compran cada color. En los resultados de la consulta se puede ver que la diferencia de edades relacionados con el color es mínima y se mantiene alrededor de 42 años.
