@@ -13,9 +13,23 @@
 | Kelvin Aristides | 1107646 |
 | Leonel Sepúlveda | 1104995 |
 
-1.
+1.  **Ventas para un Mes Específico: ¿Cuál es el total de ingresos por ventas y el número de autos
+vendidos para un mes específico? ¿Cómo se compara esto con otros meses?**
 
-2.  **Vehículo Más Vendido por Rango de Edad:** Para cada rango de edad: 18-25, 26-35, 36-45, 46-
+Mes 2:
+![VentasParaUnMesEspecíficoMes2](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/5fcea791-3ef2-42f4-8165-d5a255a414ad)
+
+Mes 6, 8, 10, 12 para comparar:
+![VentasParaUnMesEspecíficoMes6-8-10-12-consulta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/72bfcf47-5353-4416-813d-4b3c2bde7158)
+![VentasParaUnMesEspecíficoMes6-8-10-12-respuesta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/ed17a198-b39f-4e89-af59-fb583f28c906)
+
+
+Comentario:
+Pudiendo ver los valores que nos proporciona el mes 2, podemos a la vez compararlos con los meses 6, 8, 10 y 12. Y llegar a la conclusión de que el mes 2, uno de los primeros meses, esta por debajo de los demás 4 meses en cuanto a numero de coches vendidos junto con las ganancias.
+Viendo que a finales del año las personas tienden a comprar mas carros que a incios del año.
+
+
+3.  **Vehículo Más Vendido por Rango de Edad:** Para cada rango de edad: 18-25, 26-35, 36-45, 46-
     55, 56-65, 66-70 , ¿cuál es la combinación de marca de automóvil más vendida? ¿Varía esto entre
     diferentes rangos de edad?
 
