@@ -241,9 +241,15 @@ Los datos muestran que las ventas de automóviles varían ligeramente a lo largo
 
 **Verano:** En verano, el color más atractivo es el dorado (Goldenrod), y el fabricante más popular es GMC. Esto podría indicar que en verano los compradores optan por colores que reflejen el ambiente soleado y cálido.
 
-7.
+7. **Interacción entre Edad y Descuento: ¿Existe alguna relación entre la edad del comprador y el
+descuento que reciben? ¿Los compradores mayores tienden a negociar mejores descuentos?**
+![InteracciónEntreEdadYDescuento-Consulta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/a571fd4b-a9a5-4de7-9c5c-2aa306b92521)
+![InteracciónEntreEdadYDescuento-Respuesta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/f153ed4e-d134-46d0-b04a-be25728d36f1)
 
-8. **Demografía del Comprador para Autos Nuevos vs. Usados: ¿Atraen los autos nuevos y usados a diferentes demografías? ¿Existen ciertos grupos de edad o géneros más inclinados a comprar autos nuevos o usados?**
+Por los promedios sacada entre rangos de edad llegue a la conclusión de que las personas mayores de edad si tienden a conseguir más descuentos. Por otro lado, las personas que están entre los más jóvenes y los mas viejos son los que tienden a conseguir el menor descuento.
+
+
+9. **Demografía del Comprador para Autos Nuevos vs. Usados: ¿Atraen los autos nuevos y usados a diferentes demografías? ¿Existen ciertos grupos de edad o géneros más inclinados a comprar autos nuevos o usados?**
    Las siguientes capturas demuestran que los mínimos y máximos entre los autos usados y nuevos son los mismos, sugiriendo que en este caso, el estado de uso del auto no atrae diferentes demografías.<br>
 
    - Autos nuevos
@@ -259,7 +265,7 @@ Los datos muestran que las ventas de automóviles varían ligeramente a lo largo
    ![](./8/cantidad%20carros%20nuevos.png)
    ![](./8/comparacion%20cantidad%20carros%20usados.png)
 
-9. **Distribución de Precios por Marca de Auto: ¿Cuál es la distribución de los precios de venta para cada
+10. **Distribución de Precios por Marca de Auto: ¿Cuál es la distribución de los precios de venta para cada
    marca de automóvil? ¿Existen marcas de lujo con precios consistentemente más altos en comparación
    con otras?**
 
