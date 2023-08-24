@@ -11,13 +11,31 @@
 |  Elián Matos      | 1106901 |
 |  John Del Rosario | 1106940 |
 |  Juan Ubiera      | 1107248 |
-|  Kelvin Aristides |    |
+|  Kelvin Aristides | 1107646 |
 |  Leonel Sepúlveda |    |
 
 
 1. 
 
-2.
+2. **Vehículo Más Vendido por Rango de Edad:** Para cada rango de edad: 18-25, 26-35, 36-45, 46-
+55, 56-65, 66-70 , ¿cuál es la combinación de marca de automóvil más vendida? ¿Varía esto entre
+diferentes rangos de edad?
+
+![](./2/consulta.jpg)
+![](./2/respuesta.jpg)
+
+
+Comentario: Tras realizar la consulta requerida podemos ver que dependiendo de los rangos de edad
+existe una marca de vehiculos que es la que mas vendida. En este caso dependiendo de la edad son:
+
+18-25: FORD
+26-35: FORD
+36-45: FORD
+46-55: CHEVROLET
+56-65: FORD
+66-70: NO HAY DATA
+
+
 
 3.
 
