@@ -17,11 +17,11 @@
 vendidos para un mes específico? ¿Cómo se compara esto con otros meses?**
 
 Mes 2:
-![VentasParaUnMesEspecíficoMes2](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/5fcea791-3ef2-42f4-8165-d5a255a414ad)
+![](1/VentasParaUnMesEspec%C3%ADficoMes2.jpg)
 
 Mes 6, 8, 10, 12 para comparar:
-![VentasParaUnMesEspecíficoMes6-8-10-12-consulta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/72bfcf47-5353-4416-813d-4b3c2bde7158)
-![VentasParaUnMesEspecíficoMes6-8-10-12-respuesta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/ed17a198-b39f-4e89-af59-fb583f28c906)
+![](1/VentasParaUnMesEspec%C3%ADficoMes6-8-10-12-consulta.jpg)
+![](1/VentasParaUnMesEspec%C3%ADficoMes6-8-10-12-respuesta.jpg)
 
 
 Comentario:
@@ -250,8 +250,8 @@ Esto nos arroja los siguientes resultados:
   
 
 7. **Interacción entre Edad y Descuento: ¿Existe alguna relación entre la edad del comprador y eldescuento que reciben? ¿Los compradores mayores tienden a negociar mejores descuentos?**
-![InteracciónEntreEdadYDescuento-Consulta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/a571fd4b-a9a5-4de7-9c5c-2aa306b92521)
-![InteracciónEntreEdadYDescuento-Respuesta](https://github.com/siriuzz/TendenciasGrupo5/assets/103001490/f153ed4e-d134-46d0-b04a-be25728d36f1)
+![](7/Interacci%C3%B3nEntreEdadYDescuento-Consulta.jpg)
+![](7/Interacci%C3%B3nEntreEdadYDescuento-Respuesta.jpg)
 Por los promedios sacada entre rangos de edad llegue a la conclusión de que las personas mayores de edad si tienden a conseguir más descuentos. Por otro lado, las personas que están entre los más jóvenes y los mas viejos son los que tienden a conseguir el menor descuento.
 
 
